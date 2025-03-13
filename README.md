@@ -32,11 +32,6 @@ I work with various technologies, focusing on:
 - **[Booksh](https://github.com/shadmansaleh/Booksh)** - A library management system built using Java Swing.
 - **[Snake_Game](https://github.com/shadmansaleh/Snake_Game)** - A simple snake game written in C++.
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadmansaleh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmansaleh&layout=compact&theme=radical)
-
 ### 📌 Current Focus
 
 - Full-stack web development with modern frameworks
@@ -52,3 +47,16 @@ I work with various technologies, focusing on:
 <!-- - Portfolio: [Website](#) -->
 
 Let's build something awesome together! 🚀
+
+### ❤️ Support My Work
+
+If you find my projects helpful, consider supporting me:
+
+<a href="https://buymeacoffee.com/shadmansalj" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+</a>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadmansaleh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmansaleh&layout=compact&theme=radical)
