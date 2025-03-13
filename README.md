@@ -48,6 +48,14 @@ I work with various technologies, focusing on:
 
 Let's build something awesome together! 🚀
 
+### 📊 GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadmansaleh&theme=radical" alt="Summary Cards" style="margin-bottom: 20px; display: block;" />
+<img src="https://github-readme-stats.vercel.app/api?username=shadmansaleh&show_icons=true&theme=radical&card_width=700" alt="GitHub Stats" style="margin-bottom: 20px; display: block;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmansaleh&layout=compact&theme=radical&card_width=700" alt="Top Languages" style="margin-bottom: 20px; display: block;" />
+
+
+
 ### ❤️ Support My Work
 
 If you find my projects helpful, consider supporting me:
@@ -55,8 +63,3 @@ If you find my projects helpful, consider supporting me:
 <a href="https://buymeacoffee.com/shadmansalj" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
 </a>
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadmansaleh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmansaleh&layout=compact&theme=radical)
