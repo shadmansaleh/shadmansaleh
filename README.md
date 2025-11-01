@@ -1,62 +1,44 @@
-## Hi there, I'm Shadman Saleh! 👋
+## Hi, I'm Shadman! 👋
 
-I'm passionate about software development, web development, problem-solving, and building efficient, scalable systems. I'm currently **open to work** and looking for exciting opportunities in software and web development.
+CSE undergrad, software developer, and open-source contributor. Over the years, I've worked on lots of different stuff, including full-stack development, systems programming, and mobile development.
+Currently, **open to work** on system/web projects.  
 
-I work with various technologies, focusing on:
+### What I Do
+- **Web & Mobile**: React, Svelte, Flask, Kotlin, Flutter  
+- **Systems & Competitive Programming**: C/C++, Lua, Python  
+- **Neovim Plugins**: lualine.nvim, IRC.nvim  
+- **Automation & ML**: Python, Jupyter, Playwright
 
-- **Web Development** with modern front-end and back-end frameworks
-- **C/C++** for competitive programming and system-level development
-- **Kotlin & Android** for mobile app development
-- **Flutter** for cross platform development
-- **Flask & Python** for web applications and APIs
-- **Machine Learning & Data Science** using Jupyter and Kaggle
-- **Neovim Plugin Development** using Lua
+### Notable Projects
+- **[lualine.nvim](https://github.com/shadmansaleh/lualine.nvim)** – Fast, extensible Neovim statusline.
+- **[IRC.nvim](https://github.com/shadmansaleh/IRC.nvim)** – IRC client for Neovim.
+- **[StratHub](https://github.com/shadmansaleh/StratHub)** – Connects novices with experts.
+- **[CuetPS](https://github.com/shadmansaleh/CuetPS)** – Photo exhibition management web app.
+- **[EvSync](https://github.com/shadmansaleh/EvSync)** – Android event/task collaboration app.
+- **[Booksh](https://github.com/shadmansaleh/Booksh)** – Library management in Java Swing.
+- **[Snake_Game](https://github.com/shadmansaleh/Snake_Game)** – Classic C++ game demonstrating OOP.
 
-### 🛠 Skills
 
-- **Programming Languages**: C++, Python, Kotlin, Java, JavaScript, Lua
-- **Frameworks & Libraries**: Flask, React, Express.js, Svelte
-- **Web Technologies**: HTML, CSS, Bootstrap, Tailwind
-- **Database Management**: MySQL, MongoDB, Firebase
-- **Version Control**: Git, GitHub
-- **DevOps & Tools**: Docker, CI/CD, Playwright for automated testing
+### Skills
+**Languages:** C++, Python, Java, JavaScript, Lua
+**Frameworks & Tools:** React, Express, TailwindCSS, Flask, MySQL, MongoDB, Docker, Git
 
-### 🚀 Notable Projects
-
-- **[lualine.nvim](https://github.com/shadmansaleh/lualine.nvim)** - A blazing fast and easy-to-configure Neovim statusline plugin written in pure Lua.
-- **[IRC.nvim](https://github.com/shadmansaleh/IRC.nvim)** - An IRC client for Neovim written in Lua.
-- **[StratHub](https://github.com/shadmansaleh/StratHub)** - A platform to unite novices and experts to share knowledge and expertise.
-- **[CuetPS](https://github.com/shadmansaleh/CuetPS)** - A photo exhibition website built for managing and showcasing photography events.
-- **[EvSync](https://github.com/shadmansaleh/EvSync)** - An event and task collaboration app for Android.
-- **[Basic_Weather](https://github.com/shadmansaleh/Basic_Weather.app)** - Simple cross-platform weather app built with flutter.
-- **[Booksh](https://github.com/shadmansaleh/Booksh)** - A library management system built using Java Swing.
-- **[Snake_Game](https://github.com/shadmansaleh/Snake_Game)** - A simple snake game written in C++.
-
-### 📌 Current Focus
-
-- Full-stack web development with modern frameworks
-- Android development with Kotlin & XML
-- Data exploration and ML model testing
-- Automated testing with Playwright
-- Neovim plugin development and open-source contributions
-
-### 📫 Connect with Me
-
-- GitHub: [shadmansaleh](https://github.com/shadmansaleh)
-- LinkedIn: [shadman-saleh](https://www.linkedin.com/in/shadman-saleh/)
+### Links
+- [GitHub](https://github.com/shadmansaleh)  
+- [LinkedIn](https://www.linkedin.com/in/shadman-saleh/)
+- [CV](https://drive.google.com/file/d/1p5cuGj0nclyB-5ezLky0QiTPNqfbak4W/view?usp=sharing)
 <!-- - Portfolio: [Website](#) -->
 
-Let's build something awesome together! 🚀
+Let's build something awesome! 🚀
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadmansaleh&theme=radical" alt="Summary Cards" style="margin-bottom: 20px; display: block;" />
 <img src="https://github-readme-stats.vercel.app/api?username=shadmansaleh&show_icons=true&theme=radical&card_width=700" alt="GitHub Stats" style="margin-bottom: 20px; display: block;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmansaleh&layout=compact&theme=radical&card_width=700" alt="Top Languages" style="margin-bottom: 20px; display: block;" />
 
 
-
-### ❤️ Support My Work
+### Support My Work
 
 If you find my projects helpful, consider supporting me:
 
