@@ -20,8 +20,8 @@ Currently, **open to work** on system/web projects.
 
 
 ### Skills
-**Languages:** C++, Python, Java, JavaScript, Lua
-**Frameworks & Tools:** React, Express, TailwindCSS, Flask, MySQL, MongoDB, Docker, Git
+- **Languages:** C, C++, Python, Java, JavaScript, Lua, Html, Css
+- **Frameworks & Tools:** React, ExpressJS, TailwindCSS, Flask, MySQL, MongoDB, Docker, Git
 
 ### Links
 - [GitHub](https://github.com/shadmansaleh)  
